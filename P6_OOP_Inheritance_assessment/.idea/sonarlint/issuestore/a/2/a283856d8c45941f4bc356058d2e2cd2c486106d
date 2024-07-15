@@ -1,0 +1,11 @@
+
+]
+java:S1220""Move this file to a named package.8Š‰Ç÷‚2J$dc1a1a9c-0839-412a-b2a3-7068f4a9af68
+m	java:S106"+Replace this use of System.out by a logger.(ÑÇŒû8”‰Ç÷‚2J$ce8f8958-d8a3-4aea-a101-d0bb695608f2
+r	java:S106"+Replace this use of System.out by a logger.(Èã†ñüÿÿÿÿ8ì²—ø‚2J$a67b4dd0-846f-445e-9caf-9b0e29435fbe
+k
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8—‰Ç÷‚2J$6e3c3cfb-e8c4-4731-af32-8bbc6ee8eb8b
+o
+java:S1068"-Remove this unused "birthDate" private field.(¹Ç98—‰Ç÷‚2J$70577281-f026-437d-aa05-b514a8c562fa
+n
+java:S1068"+Remove this unused "endDate" private field.(øËâÕ8—‰Ç÷‚2J$86176883-982d-4af9-8c2f-76f1778ad9eb

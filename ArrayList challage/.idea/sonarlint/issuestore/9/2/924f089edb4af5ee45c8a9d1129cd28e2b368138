@@ -1,0 +1,18 @@
+
+}
+java:S1488:"`Immediately return this expression instead of assigning it to the temporary variable "toExport".(ªè²Ê8ÀüÔ½‡2
+]
+java:S1220""Move this file to a named package.8ü¯Ô½‡2J$7f5e0b92-582f-401e-8bc1-35439234c957
+r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8—°Ô½‡2J$b71fb68b-777a-4998-b035-500f830183c5
+ƒ
+java:S1119";Refactor the code to remove this label and the need for it.(ˆ¨™šþÿÿÿÿ8˜°Ô½‡2J$efc32a34-f481-4164-9e48-a562a673bede
+r	java:S106"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8˜°Ô½‡2J$15c6a591-aed7-4c61-9402-6517e23f99cf
+m	java:S106"+Replace this use of System.out by a logger.(†Š€ü8™°Ô½‡2J$4ee4890f-8a61-460b-8123-0aa0b9b2298f
+r	java:S106"+Replace this use of System.out by a logger.(ìø£“ûÿÿÿÿ8š°Ô½‡2J$caaf0151-0ea7-449f-9dd3-2869f4a2629f
+d
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8š°Ô½‡2J$4a084904-2da5-4ab5-a3cb-4a115cc13f55
+r	java:S106$"+Replace this use of System.out by a logger.(çÞø¯ÿÿÿÿÿ8›°Ô½‡2J$bcb954d1-aa3f-4eda-adf8-3f2d349977a7
+r	java:S106)"+Replace this use of System.out by a logger.(çÞø¯ÿÿÿÿÿ8œ°Ô½‡2J$049ae2de-bf22-4f5b-b5c5-0899786e888f
+r	java:S106."+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8Ÿ°Ô½‡2J$89a147a0-d3a5-4e09-bea0-d35efe5d572c
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¢°Ô½‡2J$b302fdec-8865-413e-8a6d-b3bb27976d7a

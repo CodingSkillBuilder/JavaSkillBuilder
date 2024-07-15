@@ -1,0 +1,7 @@
+
+]
+java:S1220""Move this file to a named package.8Å‘‘ò…2J$d7327fd3-1380-4bd8-b62e-7cdc8c5f0a6d
+m	java:S106"+Replace this use of System.out by a logger.(¥·ç­8Í‘‘ò…2J$2ada897c-667d-48c1-9f4a-1dbc3e378ed7
+m	java:S106	"+Replace this use of System.out by a logger.(ÉÿÛ8Î‘‘ò…2J$9ce45c74-8065-4d0f-9e25-713a7c84dba2
+w
+java:S1068"/Remove this unused "description" private field.(ÇÓæâıÿÿÿÿ8Ğ‘‘ò…2J$0f8e6155-a460-433f-a707-011e463a1a6d

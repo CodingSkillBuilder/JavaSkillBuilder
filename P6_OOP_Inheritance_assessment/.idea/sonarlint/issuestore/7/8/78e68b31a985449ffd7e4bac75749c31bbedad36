@@ -1,0 +1,8 @@
+
+]
+java:S1220""Move this file to a named package.8šŠ•÷‚2J$2bc43427-70fc-45b6-a74c-ad58cb329429
+r	java:S106"+Replace this use of System.out by a logger.(º²‘áÿÿÿÿÿ8§Š•÷‚2J$7125073b-4744-426b-8249-7afc1fde26f0
+r	java:S106
+"+Replace this use of System.out by a logger.(¼Þ‡£ÿÿÿÿÿ8©Š•÷‚2J$772a5bfc-7cc9-4809-99e7-8c74d07b06c3
+s
+java:S1068"0Remove this unused "annualSalary" private field.(ÛÚ‚Ø8®Š•÷‚2J$9ff15338-0dfe-4ad0-8372-09024e24f2a2

@@ -1,0 +1,28 @@
+
+^
+java:S49734"<Strings and Boxed types should be compared using "equals()".(ı‰Ëæúÿÿÿÿ8â‰îÇ†2
+^
+java:S49734"<Strings and Boxed types should be compared using "equals()".(ı‰Ëæúÿÿÿÿ8ã‰îÇ†2
+Y
+java:S4973C"<Strings and Boxed types should be compared using "equals()".(ÓÜÙÁ8ä‰îÇ†2
+Y
+java:S4973C"<Strings and Boxed types should be compared using "equals()".(ÓÜÙÁ8ä‰îÇ†2
+7
+java:S1220""Move this file to a named package.8å‰îÇ†2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(á…£8İŠîÇ†2
+G	java:S106"+Replace this use of System.out by a logger.(Îñë8èŠîÇ†2
+G	java:S106'"+Replace this use of System.out by a logger.(Îñë8éŠîÇ†2
+G	java:S1066"+Replace this use of System.out by a logger.(Îñë8êŠîÇ†2
+X	java:S125G"<This block of commented-out lines of code should be removed.(‹Éÿ¼8ìŠîÇ†2
+h
+java:S6201I"FReplace this instanceof check and cast with 'instanceof Burger burger'(–¬“ùÿÿÿÿ8îŠîÇ†2
+L	java:S106N"+Replace this use of System.out by a logger.(ÙÔ°™ÿÿÿÿÿ8îŠîÇ†2
+L	java:S106T"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8ğŠîÇ†2
+g
+java:S6201]"EReplace this instanceof check and cast with 'instanceof Drinks drink'(Ü¼‘üÿÿÿÿ8ñŠîÇ†2
+L	java:S106b"+Replace this use of System.out by a logger.(ÙÔ°™ÿÿÿÿÿ8ñŠîÇ†2
+G	java:S106i"+Replace this use of System.out by a logger.(Îñë8óŠîÇ†2
+c
+java:S6201t"FReplace this instanceof check and cast with 'instanceof Extras extras'(©´‡ã8ôŠîÇ†2
+L	java:S106y"+Replace this use of System.out by a logger.(ÙÔ°™ÿÿÿÿÿ8ôŠîÇ†2

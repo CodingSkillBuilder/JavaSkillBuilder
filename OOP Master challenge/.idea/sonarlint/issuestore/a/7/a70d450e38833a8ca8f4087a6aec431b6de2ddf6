@@ -1,0 +1,20 @@
+
+„
+java:S4973G"<Strings and Boxed types should be compared using "equals()".(Ùµëˆşÿÿÿÿ8÷„ƒ †2J$7a2929f6-b44e-4a20-b622-77e19005714a
+]
+java:S1220""Move this file to a named package.8ø„ƒ †2J$4a148b00-bce3-4e15-95d5-614a538e49df
+m	java:S106"+Replace this use of System.out by a logger.(—­…À8ş„ƒ †2J$bd775bf8-7288-48e8-bad6-6d5de7200286
+u
+java:S6126 "2Replace this String concatenation with Text block.(ìÖ°š8…ƒ †2J$bc5539bf-054f-4c6f-87e1-cc8dd1c04d15
+r	java:S106$"+Replace this use of System.out by a logger.(ˆÊûˆûÿÿÿÿ8…ƒ †2J$64b5dfea-4621-4539-9606-9ad810106172
+t
+java:S6126("2Replace this String concatenation with Text block.(ßæô8…ƒ †2J$860f4915-d6a3-4c9c-9c75-507ec44fb538
+m	java:S106,"+Replace this use of System.out by a logger.(€èªÑ8‚…ƒ †2J$44436a4c-ec12-49c4-91e7-28ba3a15b3b7
+r	java:S106/"+Replace this use of System.out by a logger.(î†•Ôıÿÿÿÿ8‚…ƒ †2J$18a424dd-c5b9-4ad9-976c-2e160b754618
+m	java:S1067"+Replace this use of System.out by a logger.(Îñë8†…ƒ †2J$f9a0cb47-1190-4302-9f45-67c9b1c691b9
+l	java:S106D"+Replace this use of System.out by a logger.(Åä·28†…ƒ †2J$4787c60c-bfe7-4125-ae64-eed08944c9c8
+m	java:S106E"+Replace this use of System.out by a logger.(†¯òå8‡…ƒ †2J$8a960af1-f693-4b58-95f7-6d582ba69c50
+l
+java:S6201I"JReplace this instanceof check and cast with 'instanceof Topings newToping'(úŒİ“ùÿÿÿÿ8û¬Šã†2
+r	java:S106M"+Replace this use of System.out by a logger.(Í°Ãşÿÿÿÿ8‡…ƒ †2J$be26ce20-7cf6-4ef1-8429-2c809d612421
+m	java:S106P"+Replace this use of System.out by a logger.(ŸÕøä8ˆ…ƒ †2J$d486e43c-c5d9-419b-86bc-d50c4acd5572

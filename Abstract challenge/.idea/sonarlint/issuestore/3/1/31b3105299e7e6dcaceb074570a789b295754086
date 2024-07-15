@@ -1,0 +1,10 @@
+
+]
+java:S1220""Move this file to a named package.8‡Ş´†‹2J$21fd59ab-fa52-4031-8485-427a4b41ba2b
+
+java:S5993."9Change the visibility of this constructor to "protected".(€ŞÇèşÿÿÿÿ8—Ş´†‹2J$7330003e-1be6-4a86-87fc-68a2415e4174
+m	java:S106"+Replace this use of System.out by a logger.(Å‚ÌË8ŸŞ´†‹2J$f6493a25-5c26-4f3c-8723-67979178b541
+‰
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¼¨ßÍùÿÿÿÿ8£Ş´†‹2J$ba4af2a1-b6ee-4053-adbe-f0ebe329ee09
+‰
+java:S3457#"AFormat specifiers should be used instead of string concatenation.(·¼…Ÿÿÿÿÿÿ8¤Ş´†‹2J$fb81776b-5e3f-4bb3-a5dc-c2c49d2aa418

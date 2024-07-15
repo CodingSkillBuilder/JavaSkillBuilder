@@ -1,0 +1,17 @@
+
+]
+java:S1220""Move this file to a named package.8Â…»…ˆ2J$19cf0a1a-7630-4fa5-944c-624e028c717c
+X
+java:S1854"6Remove this useless assignment to local variable "c3".(Ð÷î±ÿÿÿÿÿ8Û“Ö…ˆ2
+X
+java:S1854"6Remove this useless assignment to local variable "c2".(â™Ÿ©ýÿÿÿÿ8Ü“Ö…ˆ2
+r	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ8×…»…ˆ2J$137c86ec-8e33-4172-aa83-b92025c82434
+~	java:S125"<This block of commented-out lines of code should be removed.(ìì¸–8Ø…»…ˆ2J$e3601035-ffa7-4c45-8cac-2cc9a631652a
+I
+java:S1481"'Remove this unused "c2" local variable.(â™Ÿ©ýÿÿÿÿ8â“Ö…ˆ2
+I
+java:S1481"'Remove this unused "c3" local variable.(Ð÷î±ÿÿÿÿÿ8â“Ö…ˆ2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ƒâ­ñþÿÿÿÿ8Þ…»…ˆ2J$ad209423-cb95-40b3-bf71-0ff7cbd1cd35
+r	java:S106"+Replace this use of System.out by a logger.(›û²áÿÿÿÿÿ8ô¯¾…ˆ2J$a2135976-10a1-46c5-aecd-f0d53968939c
+r	java:S106"+Replace this use of System.out by a logger.(îÃõñþÿÿÿÿ8ø÷¾…ˆ2J$9a553408-535d-4463-ace5-0b74edaa734e
+m	java:S106"+Replace this use of System.out by a logger.(‰“Žõ8ùÿÐ…ˆ2J$03a056b2-b7e3-4af5-a9cf-eb5521753db8

@@ -1,0 +1,8 @@
+
+]
+java:S1220""Move this file to a named package.8İ„¥ò…2J$4d1bec3e-61c2-439d-b373-b54bfdcaee24
+|
+java:S1854"9Remove this useless assignment to local variable "mycar".(ÜÖ…8å„¥ò…2J$b42fece5-18fe-4f0f-a5a5-9100e511bca2
+r	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8ç„¥ò…2J$58c2f94b-13d9-4e6a-95cd-8a7b77baef64
+m
+java:S1481"*Remove this unused "mycar" local variable.(ÜÖ…8ï„¥ò…2J$ddde5f19-a210-40cc-aa55-a480dce8479d

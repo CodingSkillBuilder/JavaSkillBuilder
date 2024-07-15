@@ -1,0 +1,15 @@
+
+]
+java:S1220""Move this file to a named package.8òÉŠ†‹2J$bcd1c5d8-79ba-4acc-9c81-689fda2e9a2a
+h
+java:S3457	"%String contains no format specifiers.(ôÑªŸ8şÉŠ†‹2J$52787837-55fc-4a4b-8e68-61bd16354979
+m	java:S106	"+Replace this use of System.out by a logger.(ôÑªŸ8€ÊŠ†‹2J$47409815-eaa8-4f48-afe0-dcfb3941d2d4
+r	java:S106"+Replace this use of System.out by a logger.(º°ÿÄÿÿÿÿÿ8ÊŠ†‹2J$b26c00cf-8c29-40be-b79c-56008346337e
+m
+java:S2116"%Use "Arrays.toString(array)" instead.(º°ÿÄÿÿÿÿÿ8„ÊŠ†‹2J$a4bbb13c-0f20-473e-88fc-a33e7d1b7208
+~
+java:S1119";Refactor the code to remove this label and the need for it.(Ä¸Úª8†ÊŠ†‹2J$242d566a-3a7b-429e-a8e2-644ee44cbe26
+r	java:S106"+Replace this use of System.out by a logger.(ÅŠ¤Ùøÿÿÿÿ8‡ÊŠ†‹2J$f01ff266-ef9f-4dc0-a31b-6c3207f9fb04
+m	java:S106"+Replace this use of System.out by a logger.(ñ°»ï8ŠÊŠ†‹2J$9a0bdfa6-ee27-4370-8af1-78d5c31ab55d
+k	java:S106'"+Replace this use of System.out by a logger.(·ß"8ÊŠ†‹2J$d11a9447-2bd5-4f2e-8225-f032e15cfc79
+m	java:S106*"+Replace this use of System.out by a logger.(¨™°İ8Å¥†‹2J$ec2602da-5027-40f5-8876-82639e282f3d

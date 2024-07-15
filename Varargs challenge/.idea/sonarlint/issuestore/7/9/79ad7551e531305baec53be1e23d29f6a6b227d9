@@ -1,0 +1,12 @@
+
+d
+java:S1643"Use a StringBuilder instead.(µÙ½Êøÿÿÿÿ8¨‡2J$86d67289-e9ac-4064-9329-cbcabaf43bf8
+]
+java:S1220""Move this file to a named package.8¨‡2J$e23c8d7e-2b44-4b43-88d3-fbf60e50a5d3
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(á¼íãşÿÿÿÿ8š¨‡2J$9b77b099-607b-42aa-b3d3-350f24e6be0a
+o
+java:S1481",Remove this unused "numbers" local variable.(¢¨¹“8¦¨‡2J$8e1571e8-39e2-4d10-a354-7723c849258f
+m	java:S106	"+Replace this use of System.out by a logger.(ûÅ•ê8¨¨‡2J$70e96bef-bccc-4c76-8160-353b98c6b686
+v
+java:S1172".Remove this unused method parameter "numbers".(¢ëËúÿÿÿÿ8®¨‡2J$168bbc6d-94e1-4959-b416-67e3e1725d3c

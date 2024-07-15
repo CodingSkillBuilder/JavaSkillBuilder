@@ -1,0 +1,25 @@
+
+u
+java:S1192<"SDefine a constant instead of duplicating this literal "Your choice here: " 3 times.(¡Éãóüÿÿÿÿ8šŸ·æˆ2
+7
+java:S1220""Move this file to a named package.8Ÿ·æˆ2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8 ·æˆ2
+L	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8– ·æˆ2
+X
+java:S11190";Refactor the code to remove this label and the need for it.(Ä¸Úª8™ ·æˆ2
+L	java:S1067"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8œ ·æˆ2
+F	java:S1069"+Replace this use of System.out by a logger.(°—Ğ8œ ·æˆ2
+L	java:S106<"+Replace this use of System.out by a logger.(¡Éãóüÿÿÿÿ8œ ·æˆ2
+L	java:S106B"+Replace this use of System.out by a logger.(ô†åúÿÿÿÿ8œ ·æˆ2
+L	java:S106D"+Replace this use of System.out by a logger.(ıƒÎşÿÿÿÿ8œ ·æˆ2
+L	java:S106G"+Replace this use of System.out by a logger.(¡Éãóüÿÿÿÿ8 ·æˆ2
+G	java:S106K"+Replace this use of System.out by a logger.(Ø×‹Õ8 ·æˆ2
+L	java:S106M"+Replace this use of System.out by a logger.(¡Éãóüÿÿÿÿ8 ·æˆ2
+E	java:S106P"+Replace this use of System.out by a logger.(æ½8 ·æˆ2
+G	java:S106U"+Replace this use of System.out by a logger.(¥õ³ü8 ·æˆ2
+L	java:S106X"+Replace this use of System.out by a logger.(×ÍË¸úÿÿÿÿ8 ·æˆ2
+G	java:S106h"+Replace this use of System.out by a logger.(Í…ó8  ·æˆ2
+G	java:S106{"+Replace this use of System.out by a logger.(Îñë8¢ ·æˆ2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¥ ·æˆ2
