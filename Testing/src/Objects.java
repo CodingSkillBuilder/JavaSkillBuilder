@@ -9,6 +9,12 @@ public abstract class Objects implements flyable{
 interface flyable {
     String cat = "I'm a cat";
     void powerBoost();
+
+    default void flightStages(){
+        System.out.printf("This is the class" + getClass().getSimpleName());
+    }
+
+
 }
 
 

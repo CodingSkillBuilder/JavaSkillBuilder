@@ -21,5 +21,4 @@ class anotherClass extends Obj2{
 
 
 
-
 }
