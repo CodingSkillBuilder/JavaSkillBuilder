@@ -1,17 +1,60 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+
+
+// Quick note about records here
+
+/*
+Mind that records,
+    have final attributes only.
+    All though it is possible to create general looking instance field it is super discouraged
+
+Mind that records can,
+   have methods (that will not attempt to the fields inside the records)
+   can implement interface
+
+Mind that methods can't,
+    Mind that methods can't have a setter or any other methods that can change the fields declared
+        (this is cause that attributes in a records are implicitly final (immutable))
+    extend or be extended
+
+ */
+
+
+record BaseballPlayer(String name, String position){}
+
+
+
 public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+        BaseballTeam phillies = new BaseballTeam("Philadelphia Phillies");
+        BaseballTeam astros = new BaseballTeam("Houston Astros");
 
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
-        }
+        setScores(phillies, 3, astros, 5);
+
+        var harper = new BaseballPlayer("B Harper", "Right fielder");
+        var marsh = new BaseballPlayer("B Marsh", "Right fielder");
+
+        phillies.addTeamMember(harper);
+        phillies.addTeamMember(marsh);
+
+        phillies.listTeamMembers();
+
     }
+
+
+    public static void setScores(
+            BaseballTeam teamOne,
+            int teamOneScore,
+            BaseballTeam teamTwo,
+            int teamTwoScore
+    ){
+        String message = teamOne.setScore(teamOneScore, teamTwoScore);
+        teamTwo.setScore(teamTwoScore, teamOneScore);
+        System.out.printf("%s, %s, %s %n",teamOne,  message, teamTwo);
+    }
+
+
 }
