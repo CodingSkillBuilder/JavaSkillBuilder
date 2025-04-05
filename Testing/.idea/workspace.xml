@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88359dd1-01d5-455a-8917-4bb5f388cd4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Comparable practising/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics master challenge/src/com/cruiser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics master challenge/src/com/cruiser/front/LPAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics master challenge/src/com/cruiser/front/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics master challenge/src/com/cruiser/util/QueryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics master challenge/src/com/cruiser/util/QueryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inner class practicing/src/com/cruiser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inner class practicing/src/com/cruiser/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inner class practicing/src/com/cruiser/model/StoreEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions and interfaces/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstractions and interfaces/src/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions and interfaces/src/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstractions and interfaces/src/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions and interfaces/src/Jet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstractions and interfaces/src/Jet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions and interfaces/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstractions and interfaces/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstractions and interfaces/src/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstractions and interfaces/src/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics challenge 1/src/Layer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics challenge 1/src/Layer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics challenge 1/src/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics challenge 1/src/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics challenge 1/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Generics challenge 1/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5de7093b0a2843515f0f64dabba2e1139f841cbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/d/5de7093b0a2843515f0f64dabba2e1139f841cbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obj2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SuperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2kPnuXQjUAZDunrVKKYsRv9Umc3" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Documents/Self_boost/Java/OOP Master challenge&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Testing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88359dd1-01d5-455a-8917-4bb5f388cd4a" name="Changes" comment="" />
+      <created>1723194303440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723194303440</updated>
+      <workItem from="1723194305391" duration="3000" />
+      <workItem from="1723278371133" duration="232000" />
+      <workItem from="1724505468531" duration="2741000" />
+      <workItem from="1724602938406" duration="287000" />
+      <workItem from="1724603851823" duration="11000" />
+      <workItem from="1724604131542" duration="87000" />
+      <workItem from="1724669759802" duration="1633000" />
+      <workItem from="1724905256754" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/Rar$DIa33176.23717/Meal.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
