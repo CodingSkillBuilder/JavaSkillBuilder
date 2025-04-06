@@ -25,6 +25,7 @@ record FootballPlayer (String name, String position) implements Player{}
 
 
 
+
 public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
@@ -48,8 +49,8 @@ public class Main {
 
 
 
-        Team<BaseballPlayer> baseBallTeam = new Team<>("Base ballers");
-        Team<FootballPlayer> footBallTeam = new Team<>("Foot ballers");
+        Team<BaseballPlayer, Affiliation> baseBallTeam = new Team<>("Base ballers");
+        Team<FootballPlayer, Affiliation> footBallTeam = new Team<>("Foot ballers", new Affiliation("Belihulloya", "Sri Lanka"));
 
         baseBallTeam.addTeamMember(new BaseballPlayer("Base baller", "Left fielder"));
         footBallTeam.addTeamMember(new FootballPlayer("Base baller", "Left fielder"));

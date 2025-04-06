@@ -1,18 +1,29 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Team<T extends Player> {
+
+
+
+record Affiliation(String city, String State){}
+
+
+public class Team<T extends Player, S> {
 
 
     private final String teamName;
     private List<T> teamMembers = new ArrayList<>();
-
     private int totalWins = 0;
     private int totalLosses = 0;
     private int totalTies = 0;
+    private S affiliation;
 
     public Team(String teamName) {
         this.teamName = teamName;
+    }
+
+    public Team(String teamName, S affiliation) {
+        this.teamName = teamName;
+        this.affiliation = affiliation;
     }
 
     public void addTeamMember(T player){
@@ -23,6 +34,7 @@ public class Team<T extends Player> {
 
     public void listTeamMembers(){
         System.out.println(teamName + ": ");
+        System.out.println(affiliation != null ? "Affiliation: " + affiliation :"");
         System.out.println(teamMembers);
     }
 
@@ -49,6 +61,7 @@ public class Team<T extends Player> {
 
     @Override
     public String toString() {
-        return teamName + "(Ranked " + ranking() + ")";
+        return teamName + "(Ranked " + ranking() + ") \n"
+                 + "(Affiliation: " + affiliation + ")";
     }
 }
