@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        System.out.printf("Hello and welcome! \n");
 
         Student[] students = {
                 new Student("Akash"),
@@ -18,6 +18,16 @@ public class Main {
 
         Arrays.sort(students);
         System.out.println(Arrays.toString(students));
+
+        Student[] studentsTwo = {
+                new Student("Akash"),
+                new Student("Shirmil"),
+                new Student("Chandru"),
+                new Student("Welgama"),
+
+        };
+        Arrays.sort(studentsTwo, new GPAComparator());
+        System.out.println(Arrays.toString(studentsTwo));
 
     }
 }
