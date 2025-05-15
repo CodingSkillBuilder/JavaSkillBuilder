@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hello and welcome!");
 
         int studentCount = 10;
+
         List<Student> students = new ArrayList<>();
         for(int i = 0; i < studentCount; i++){
             students.add(new Student());
@@ -18,17 +19,29 @@ public class Main {
         printList(students);
 
 
+        List<Student> LPAStudents = new ArrayList<>();
+        for(int i = 0; i < studentCount; i++){
+            LPAStudents.add(new LPAStudent());
+        }
+
+        printList(LPAStudents);
 
 
     }
 
 
-    public static void printList(List<Student> students){
+    public static <T extends Student> void printList(List<T> students){
         for(var student: students){
             System.out.println(student);
         }
         System.out.println();
     }
 
+    public static void printListVersion2(List<? extends Student> students){
+        for(var student: students){
+            System.out.println(student);
+        }
+        System.out.println();
+    }
 
 }

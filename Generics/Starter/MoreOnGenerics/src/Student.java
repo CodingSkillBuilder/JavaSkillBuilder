@@ -23,5 +23,5 @@ public class Student {
     public int getYearStarted(){
         return yearStarted;
     }
-    
+
 }
