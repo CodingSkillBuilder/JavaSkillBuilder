@@ -10,4 +10,6 @@ public class SecureDemoApplication {
 		SpringApplication.run(SecureDemoApplication.class, args);
 	}
 
+    public static interface Bla {
+    }
 }
